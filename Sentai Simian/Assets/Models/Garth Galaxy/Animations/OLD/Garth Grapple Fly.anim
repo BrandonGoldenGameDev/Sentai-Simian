@@ -1,0 +1,3171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Garth Grapple Fly
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.17659564, y: 0.0077628363, z: -0.004594846, w: 0.98424214}
+        inSlope: {x: 0.6365939, y: -1.9653523, z: 0.53264153, w: 0.15805133}
+        outSlope: {x: 0.6365939, y: -1.9653523, z: 0.53264153, w: 0.15805133}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.24279377, y: 0.06832396, z: 0.032963213, w: 0.9671073}
+        inSlope: {x: 1.7285185, y: 2.581488, z: 1.2027419, w: -0.8234232}
+        outSlope: {x: 1.7285185, y: 2.581488, z: 1.2027419, w: -0.8234232}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.32063872, y: 0.2228866, z: 0.09563355, w: 0.9156236}
+        inSlope: {x: 1.0803468, y: 4.0185175, z: 1.1185033, w: -1.4886457}
+        outSlope: {x: 1.0803468, y: 4.0185175, z: 1.1185033, w: -1.4886457}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0142769255, y: 0.005294595, z: -0.05843913, w: 0.99817485}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0142769255, y: 0.005294595, z: -0.05843913, w: 0.99817485}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.052772183, y: -0.4021207, z: 0.079894856, w: 0.9105662}
+        inSlope: {x: 0.34416345, y: -2.3509767, z: 0.16235371, w: -0.74742365}
+        outSlope: {x: 0.34416345, y: -2.3509767, z: 0.16235371, w: -0.74742365}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.052772213, y: -0.4021205, z: 0.079894856, w: 0.91056633}
+        inSlope: {x: -0.0000003576282, y: 0.0000025033976, z: 0, w: 0.0000014305128}
+        outSlope: {x: -0.0000003576282, y: 0.0000025033976, z: 0, w: 0.0000014305128}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.052772224, y: -0.4021204, z: 0.07989485, w: 0.91056633}
+        inSlope: {x: -0.00000032888994, y: 0.0000023026857, z: 0, w: 0.0000013137351}
+        outSlope: {x: -0.00000032888994, y: 0.0000023026857, z: 0, w: 0.0000013137351}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.02828143, y: -0.16824669, z: -0.04582965, w: 0.9842728}
+        inSlope: {x: 0.05396199, y: -1.5178549, z: -0.5521938, w: -0.2012827}
+        outSlope: {x: 0.05396199, y: -1.5178549, z: -0.5521938, w: -0.2012827}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.032276228, y: -0.18382613, z: -0.049337033, w: 0.98118913}
+        inSlope: {x: 0.09404618, y: -0.3737288, z: -0.08205935, w: -0.07723124}
+        outSlope: {x: 0.09404618, y: -0.3737288, z: -0.08205935, w: -0.07723124}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.036118604, y: -0.19939072, z: -0.052667923, w: 0.97783685}
+        inSlope: {x: -0.0479374, y: 0.18695426, z: 0.042088985, w: 0.03700357}
+        outSlope: {x: -0.0479374, y: 0.18695426, z: 0.042088985, w: 0.03700357}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.08983119, y: 0.04705642, z: 0.02773597, w: 0.994458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.08983119, y: 0.04705642, z: 0.02773597, w: 0.994458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.12717462, y: 0.00028980104, z: -0.0075807874, w: 0.99185133}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.12717462, y: 0.00028980104, z: -0.0075807874, w: 0.99185133}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2278508, y: -0.0010628463, z: 0.007511504, w: 0.97366655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.2278508, y: -0.0010628463, z: 0.007511504, w: 0.97366655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.08823293, y: 0.46236244, z: -0.036623668, w: 0.8815297}
+        inSlope: {x: 1.5077868, y: 5.0535164, z: 0.35946506, w: -0.5772514}
+        outSlope: {x: 1.5077868, y: 5.0535164, z: 0.35946506, w: -0.5772514}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.14365874, y: 0.38020682, z: 0.0020231414, w: 0.91367435}
+        inSlope: {x: -1.4734037, y: -3.1230893, z: 0.82015985, w: 0.8916565}
+        outSlope: {x: -1.4734037, y: -3.1230893, z: 0.82015985, w: 0.8916565}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.21101645, y: 0.20210525, z: 0.031722922, w: 0.9558343}
+        inSlope: {x: -0.4028023, y: -2.1253197, z: 0.2707551, w: 0.5879777}
+        outSlope: {x: -0.4028023, y: -2.1253197, z: 0.2707551, w: 0.5879777}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_head_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.021876995, y: -0.09449987, z: 0.6864948, w: 0.72063583}
+        inSlope: {x: -0.22778392, y: -0.9875659, z: 1.1759, w: -1.4015446}
+        outSlope: {x: -0.22778392, y: -0.9875659, z: 1.1759, w: -1.4015446}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.04011834, y: -0.078615926, z: 0.8015694, w: 0.59135145}
+        inSlope: {x: 0.40832448, y: 1.2110741, z: 2.505584, w: -3.344727}
+        outSlope: {x: 0.40832448, y: 1.2110741, z: 2.505584, w: -3.344727}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.055904, y: 0.0064228796, z: 0.8952933, w: 0.44190884}
+        inSlope: {x: -0.28719592, y: 4.08237, z: 0.21845835, w: -0.9858345}
+        outSlope: {x: -0.28719592, y: 4.08237, z: 0.21845835, w: -0.9858345}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.6234883, y: -0.0011583265, z: -0.18754022, w: 0.7590057}
+        inSlope: {x: -0.14875093, y: 0.5041626, z: -1.5297236, w: -0.25516963}
+        outSlope: {x: -0.14875093, y: 0.5041626, z: -1.5297236, w: -0.25516963}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.6174742, y: 0.019612106, z: -0.25092882, w: 0.74523544}
+        inSlope: {x: -0.10341034, y: 0.36041883, z: -1.1017314, w: -0.2649317}
+        outSlope: {x: -0.10341034, y: 0.36041883, z: -1.1017314, w: -0.2649317}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.6148708, y: 0.028876547, z: -0.2793511, w: 0.7369281}
+        inSlope: {x: -1.5587043, y: -1.1673007, z: 1.0313746, w: 1.3030473}
+        outSlope: {x: -1.5587043, y: -1.1673007, z: 1.0313746, w: 1.3030473}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.0073220683, y: 0.012892262, z: -0.051841, w: 0.9985453}
+        inSlope: {x: -0.00000006705529, y: 0.0000022240004, z: -0.00000013411058, w: 0}
+        outSlope: {x: -0.00000006705529, y: 0.0000022240004, z: -0.00000013411058, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.007322074, y: 0.012892447, z: -0.05184101, w: 0.9985453}
+        inSlope: {x: -0.05920697, y: 5.033928, z: 0.12935627, w: -1.1745061}
+        outSlope: {x: -0.05920697, y: 5.033928, z: 0.12935627, w: -1.1745061}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.012255978, y: 0.43238583, z: -0.04106132, w: 0.9006699}
+        inSlope: {x: -0.059206903, y: 5.0339255, z: 0.1293564, w: -1.1745061}
+        outSlope: {x: -0.059206903, y: 5.0339255, z: 0.1293564, w: -1.1745061}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.60162675, y: 0.77382445, z: 0.19783804, w: -0.010060107}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.60162675, y: 0.77382445, z: 0.19783804, w: -0.010060107}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02901799, y: 0.05397614, z: 0.34834427, w: 0.9353613}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.02901799, y: 0.05397614, z: 0.34834427, w: 0.9353613}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5295992, y: -0.517747, z: -0.33283153, w: 0.5836831}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.5295992, y: -0.517747, z: -0.33283153, w: 0.5836831}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.053476304, y: -0.025674192, z: 0.59700173, w: 0.8000438}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.053476304, y: -0.025674192, z: 0.59700173, w: 0.8000438}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.047750216, y: -0.11989009, z: 0.4263286, w: 0.8953157}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.047750216, y: -0.11989009, z: 0.4263286, w: 0.8953157}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.08624005, y: -0.03958733, z: 0.78209066, w: 0.6158975}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.08624005, y: -0.03958733, z: 0.78209066, w: 0.6158975}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.085770525, y: -0.011283811, z: 0.4725985, w: 0.87702155}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.085770525, y: -0.011283811, z: 0.4725985, w: 0.87702155}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.31915998, y: -0.21872102, z: -0.5723737, w: 0.72297055}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.31915998, y: -0.21872102, z: -0.5723737, w: 0.72297055}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.08358573, y: -0.0031880974, z: 0.53300065, w: 0.8419701}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.08358573, y: -0.0031880974, z: 0.53300065, w: 0.8419701}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.10177886, y: -0.04877079, z: 0.4019126, w: 0.90869623}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.10177886, y: -0.04877079, z: 0.4019126, w: 0.90869623}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.20071127, y: 0.062483836, z: 0.43822733, w: 0.87393796}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.20071127, y: 0.062483836, z: 0.43822733, w: 0.87393796}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.03852502, y: -0.047279205, z: 0.6781946, w: 0.7323473}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.03852502, y: -0.047279205, z: 0.6781946, w: 0.7323473}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.020771328, y: -0.023559146, z: 0.6752032, w: 0.7369628}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.020771328, y: -0.023559146, z: 0.6752032, w: 0.7369628}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.040973853, y: -0.024197003, z: 0.16547543, w: 0.9850653}
+        inSlope: {x: 0.2627852, y: -0.4373763, z: 0.89568555, w: -0.20079184}
+        outSlope: {x: 0.2627852, y: -0.4373763, z: 0.89568555, w: -0.20079184}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.04118954, y: -0.011815742, z: 0.25028154, w: 0.96722436}
+        inSlope: {x: -0.29326245, y: 0.5783303, z: 2.03208, w: -0.5187876}
+        outSlope: {x: -0.29326245, y: 0.5783303, z: 2.03208, w: -0.5187876}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.01653534, y: 0.02399714, z: 0.33481526, w: 0.941833}
+        inSlope: {x: -1.550137, y: 1.3650398, z: 0.43955815, w: -0.2253482}
+        outSlope: {x: -1.550137, y: 1.3650398, z: 0.43955815, w: -0.2253482}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_pad_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.39978513, y: -0.4794033, z: -0.038961962, w: 0.7802732}
+        inSlope: {x: 2.7515547, y: -1.0975236, z: 0.5035858, w: -1.6663039}
+        outSlope: {x: 2.7515547, y: -1.0975236, z: 0.5035858, w: -1.6663039}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.44435918, y: -0.4832942, z: -0.00870658, w: 0.75425184}
+        inSlope: {x: 0.6151327, y: -0.049480725, z: 0.42549312, w: -0.3613025}
+        outSlope: {x: 0.6151327, y: -0.049480725, z: 0.42549312, w: -0.3613025}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.45104614, y: -0.48352668, z: -0.0035042341, w: 0.7501647}
+        inSlope: {x: -1.642321, y: 0.9958569, z: -2.0448446, w: 1.0825403}
+        outSlope: {x: -1.642321, y: 0.9958569, z: -2.0448446, w: 1.0825403}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.102285504, y: -0.000000040572075, z: 0.00000005408995, w: 0.9947551}
+        inSlope: {x: -5.685747, y: -0.53193516, z: 0.6129514, w: 2.6358564}
+        outSlope: {x: -5.685747, y: -0.53193516, z: 0.6129514, w: 2.6358564}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.17476682, y: -0.061577283, z: 0.066080324, w: 0.98045814}
+        inSlope: {x: 2.7600465, y: -1.2056187, z: 1.7809664, w: -0.8251434}
+        outSlope: {x: 2.7600465, y: -1.2056187, z: 1.7809664, w: -0.8251434}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.33228916, y: -0.10046817, z: 0.14841378, w: 0.9259932}
+        inSlope: {x: 4.43043, y: -0.006107062, z: 1.2245296, w: -1.9285945}
+        outSlope: {x: 4.43043, y: -0.006107062, z: 1.2245296, w: -1.9285945}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.37288457, y: -0.106409095, z: 0.42172754, w: 0.8196219}
+        inSlope: {x: 0.16380858, y: -2.2752378, z: 3.0329473, w: -0.3962481}
+        outSlope: {x: 0.16380858, y: -2.2752378, z: 3.0329473, w: -0.3962481}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.12373818, y: -0.28701335, z: 0.101418495, w: 0.94447154}
+        inSlope: {x: -6.179722, y: -2.4901302, z: -8.110547, w: 1.008925}
+        outSlope: {x: -6.179722, y: -2.4901302, z: -8.110547, w: 1.008925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.14209177, y: -0.31391975, z: -0.25415072, w: 0.9036989}
+        inSlope: {x: -3.1899624, y: -0.3228771, z: -4.2668347, w: -0.48927188}
+        outSlope: {x: -3.1899624, y: -0.3228771, z: -4.2668347, w: -0.48927188}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.51585835, y: 0.78865147, z: 0.31458348, w: 0.11382548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.51585835, y: 0.78865147, z: 0.31458348, w: 0.11382548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.08604999, y: -0.074170396, z: -0.029747441, w: 0.9930807}
+        inSlope: {x: 0.022293955, y: 0.0028413795, z: 0.08006358, w: 0.010313004}
+        outSlope: {x: 0.022293955, y: 0.0028413795, z: 0.08006358, w: 0.010313004}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.056968313, y: -0.078436784, z: -0.1364152, w: 0.9858972}
+        inSlope: {x: -0.94712245, y: -0.11056371, z: -3.360983, w: -0.5517438}
+        outSlope: {x: -0.94712245, y: -0.11056371, z: -3.360983, w: -0.5517438}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.007123194, y: -0.08338403, z: -0.3098291, w: 0.94710207}
+        inSlope: {x: -0.59814197, y: -0.059366997, z: -2.0809686, w: -0.4655418}
+        outSlope: {x: -0.59814197, y: -0.059366997, z: -2.0809686, w: -0.4655418}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.25423798, y: 0.5266171, z: 0.6544278, w: 0.47933465}
+        inSlope: {x: 0.04647076, y: 0.025733083, z: 0.04565561, w: -0.045995116}
+        outSlope: {x: 0.04647076, y: 0.025733083, z: 0.04565561, w: -0.045995116}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.31770957, y: 0.49585834, z: 0.59801894, w: 0.54365295}
+        inSlope: {x: -1.9225692, y: -1.1441846, z: -1.9965308, w: 1.8757192}
+        outSlope: {x: -1.9225692, y: -1.1441846, z: -1.9965308, w: 1.8757192}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.41445193, y: 0.43126848, z: 0.48805043, w: 0.63564444}
+        inSlope: {x: -1.1609094, y: -0.775079, z: -1.3196235, w: 1.1038989}
+        outSlope: {x: -1.1609094, y: -0.775079, z: -1.3196235, w: 1.1038989}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.0051777656, y: -0.00050653523, z: -0.0006219129, w: 0.9999863}
+        inSlope: {x: -0.0032853708, y: -0.0046671033, z: 0.08304298, w: 0.009634256}
+        outSlope: {x: -0.0032853708, y: -0.0046671033, z: 0.08304298, w: 0.009634256}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.009580897, y: 0.0056966995, z: -0.111061126, w: 0.9937511}
+        inSlope: {x: 0.13744612, y: 0.19618836, z: -3.4896843, w: -0.52403474}
+        outSlope: {x: 0.13744612, y: 0.19618836, z: -3.4896843, w: -0.52403474}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.016631598, y: 0.015842479, z: -0.29142866, w: 0.95631677}
+        inSlope: {x: 0.08460849, y: 0.121749476, z: -2.1644125, w: -0.4492125}
+        outSlope: {x: 0.08460849, y: 0.121749476, z: -2.1644125, w: -0.4492125}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.016973147, y: -0.022390235, z: -0.065075696, w: 0.99748474}
+        inSlope: {x: 0.0121783465, y: 0.0033994243, z: 0.08143115, w: 0.015187964}
+        outSlope: {x: 0.0121783465, y: 0.0033994243, z: 0.08143115, w: 0.015187964}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.03328022, y: -0.027058272, z: -0.17379494, w: 0.9838474}
+        inSlope: {x: -0.50975454, y: -0.1401886, z: -3.4142573, w: -0.7571254}
+        outSlope: {x: -0.50975454, y: -0.1401886, z: -3.4142573, w: -0.7571254}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.05945265, y: -0.034072608, z: -0.34959686, w: 0.934391}
+        inSlope: {x: -0.31406945, y: -0.084172115, z: -2.109625, w: -0.59347683}
+        outSlope: {x: -0.31406945, y: -0.084172115, z: -2.109625, w: -0.59347683}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.2563859, y: 0.4826225, z: 0.7169745, w: 0.43276942}
+        inSlope: {x: 0.03952241, y: 0.022459865, z: 0.04502046, w: -0.054113626}
+        outSlope: {x: 0.03952241, y: 0.022459865, z: 0.04502046, w: -0.054113626}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.31063095, y: 0.45592788, z: 0.66181827, w: 0.50757736}
+        inSlope: {x: -1.6303076, y: -1.0013726, z: -1.9773965, w: 2.222419}
+        outSlope: {x: -1.6303076, y: -1.0013726, z: -1.9773965, w: 2.222419}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.39224473, y: 0.39917487, z: 0.5521916, w: 0.6179708}
+        inSlope: {x: -0.9793663, y: -0.6810368, z: -1.3155211, w: 1.3247229}
+        outSlope: {x: -0.9793663, y: -0.6810368, z: -1.3155211, w: 1.3247229}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.028869582, y: -0.014881734, z: -0.076326236, w: 0.9965538}
+        inSlope: {x: -0.00096721016, y: -0.005143866, z: 0.08212745, w: 0.015785888}
+        outSlope: {x: -0.00096721016, y: -0.005143866, z: 0.08212745, w: 0.015785888}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.027773218, y: -0.008139021, z: -0.18604594, w: 0.98211473}
+        inSlope: {x: 0.044085767, y: 0.2179367, z: -3.4421926, w: -0.7821544}
+        outSlope: {x: 0.044085767, y: 0.2179367, z: -3.4421926, w: -0.7821544}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.025195772, y: 0.0032796406, z: -0.36317533, w: 0.9313743}
+        inSlope: {x: 0.030929387, y: 0.13702406, z: -2.1255548, w: -0.60888565}
+        outSlope: {x: 0.030929387, y: 0.13702406, z: -2.1255548, w: -0.60888565}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.085720845, y: -0.006137745, z: -0.08087922, w: 0.993012}
+        inSlope: {x: 0.0012795124, y: -0.012765318, z: 0.08119047, w: 0.016279384}
+        outSlope: {x: 0.0012795124, y: -0.012765318, z: 0.08119047, w: 0.016279384}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.08798633, y: 0.010797861, z: -0.18938294, w: 0.97789365}
+        inSlope: {x: -0.043558132, y: 0.5371736, z: -3.4022775, w: -0.80246264}
+        outSlope: {x: -0.043558132, y: 0.5371736, z: -3.4022775, w: -0.80246264}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.089350685, y: 0.038626686, z: -0.3644021, w: 0.9261402}
+        inSlope: {x: -0.016372308, y: 0.3339462, z: -2.1002316, w: -0.62104213}
+        outSlope: {x: -0.016372308, y: 0.3339462, z: -2.1002316, w: -0.62104213}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.30859584, y: 0.35676846, z: 0.7920817, w: 0.3874164}
+        inSlope: {x: 0.0240331, y: 0.02177146, z: 0.059822857, w: -0.082846165}
+        outSlope: {x: 0.0240331, y: 0.02177146, z: 0.059822857, w: -0.082846165}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.34398198, y: 0.33158514, z: 0.72085416, w: 0.5020926}
+        inSlope: {x: -0.94442135, y: -0.9799514, z: -2.6557755, w: 3.3878002}
+        outSlope: {x: -0.94442135, y: -0.9799514, z: -2.6557755, w: 3.3878002}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.38729754, y: 0.27510592, z: 0.5707673, w: 0.6697328}
+        inSlope: {x: -0.5197872, y: -0.67775124, z: -1.8010442, w: 2.0116844}
+        outSlope: {x: -0.5197872, y: -0.67775124, z: -1.8010442, w: 2.0116844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.0044773757, y: 0.10573799, z: -0.17117545, w: 0.97953993}
+        inSlope: {x: -0.024395645, y: -0.0017080158, z: 0.076702476, w: 0.023244232}
+        outSlope: {x: -0.024395645, y: -0.0017080158, z: 0.076702476, w: 0.023244232}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.027935699, y: 0.10870491, z: -0.27430356, w: 0.9550709}
+        inSlope: {x: 1.02572, y: 0.059177633, z: -3.2028832, w: -1.0935391}
+        outSlope: {x: 1.02572, y: 0.059177633, z: -3.2028832, w: -1.0935391}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.08099921, y: 0.11066946, z: -0.43808213, w: 0.88841176}
+        inSlope: {x: 0.63676274, y: 0.023574583, z: -1.9653448, w: -0.7999106}
+        outSlope: {x: 0.63676274, y: 0.023574583, z: -1.9653448, w: -0.7999106}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.075573586, y: -0.05016813, z: -0.017626304, w: 0.9957214}
+        inSlope: {x: -0.026760459, y: -0.003867168, z: 0.07826817, w: 0.01282987}
+        outSlope: {x: -0.026760459, y: -0.003867168, z: 0.07826817, w: 0.01282987}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.11165806, y: -0.045355268, z: -0.12182691, w: 0.9852074}
+        inSlope: {x: 1.1155591, y: 0.16849224, z: -3.2869835, w: -0.6578507}
+        outSlope: {x: 1.1155591, y: 0.16849224, z: -3.2869835, w: -0.6578507}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.16853675, y: -0.036127124, z: -0.29154134, w: 0.94090056}
+        inSlope: {x: 0.68254495, y: 0.11073783, z: -2.036575, w: -0.5316823}
+        outSlope: {x: 0.68254495, y: 0.11073783, z: -2.036575, w: -0.5316823}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.20601642, y: -0.00690625, z: -0.18017308, w: 0.9617938}
+        inSlope: {x: -0.031436592, y: 0.022548795, z: 0.12538624, w: 0.043943822}
+        outSlope: {x: -0.031436592, y: 0.022548795, z: 0.12538624, w: 0.043943822}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.16761087, y: -0.03725423, z: -0.35149518, w: 0.92030966}
+        inSlope: {x: 1.3699126, y: -0.93208253, z: -5.136698, w: -2.1349983}
+        outSlope: {x: 1.3699126, y: -0.93208253, z: -5.136698, w: -2.1349983}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.09185714, y: -0.08457972, z: -0.6082308, w: 0.78387743}
+        inSlope: {x: 0.9090456, y: -0.56790644, z: -3.0808308, w: -1.6371883}
+        outSlope: {x: 0.9090456, y: -0.56790644, z: -3.0808308, w: -1.6371883}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.00504791, y: 0.026950078, z: -0.12293245, w: 0.9920362}
+        inSlope: {x: -0.0264799, y: -0.0110523105, z: 0.1285088, w: 0.042562753}
+        outSlope: {x: -0.0264799, y: -0.0110523105, z: 0.1285088, w: 0.042562753}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.040631384, y: 0.04225204, z: -0.29740354, w: 0.95295066}
+        inSlope: {x: 1.095584, y: 0.44916964, z: -5.284786, w: -2.0876532}
+        outSlope: {x: 1.095584, y: 0.44916964, z: -5.284786, w: -2.0876532}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.09634649, y: 0.06438085, z: -0.5633309, w: 0.8180653}
+        inSlope: {x: 0.6685819, y: 0.2655459, z: -3.191131, w: -1.618626}
+        outSlope: {x: 0.6685819, y: 0.2655459, z: -3.191131, w: -1.618626}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.03184867, y: 0.040451396, z: -0.108940266, w: 0.99271417}
+        inSlope: {x: -0.031291008, y: -0.012467727, z: 0.12757826, w: 0.041697294}
+        outSlope: {x: -0.031291008, y: -0.012467727, z: 0.12757826, w: 0.041697294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.07436585, y: 0.0578949, z: -0.2819107, w: 0.95480067}
+        inSlope: {x: 1.2861826, y: 0.50340784, z: -5.2507944, w: -2.0520213}
+        outSlope: {x: 1.2861826, y: 0.50340784, z: -5.2507944, w: -2.0520213}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.13903046, y: 0.08240201, z: -0.54650605, w: 0.82171255}
+        inSlope: {x: 0.77597606, y: 0.29408562, z: -3.1751473, w: -1.5970589}
+        outSlope: {x: 0.77597606, y: 0.29408562, z: -3.1751473, w: -1.5970589}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.8137507, y: 0.44630614, z: 0.36448154, w: -0.07598597}
+        inSlope: {x: -0.52983445, y: -0.21197973, z: 1.5148108, w: -0.7272898}
+        outSlope: {x: -0.52983445, y: -0.21197973, z: 1.5148108, w: -0.7272898}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.79896796, y: 0.4527276, z: 0.38473475, w: -0.09309729}
+        inSlope: {x: -0.20687075, y: 0.09176132, z: 0.27866533, w: -0.23804958}
+        outSlope: {x: -0.20687075, y: 0.09176132, z: 0.27866533, w: -0.23804958}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.7965115, y: 0.4539529, z: 0.38770363, w: -0.095823415}
+        inSlope: {x: 0.7939681, y: -0.60700524, z: -1.1066988, w: 0.3334854}
+        outSlope: {x: 0.7939681, y: -0.60700524, z: -1.1066988, w: 0.3334854}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_pad_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.009304011, y: 0.7432711, z: 0.66789305, w: 0.03715525}
+        inSlope: {x: 1.1619135, y: -3.18718, z: 3.1580153, w: -2.364869}
+        outSlope: {x: 1.1619135, y: -3.18718, z: 3.1580153, w: -2.364869}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.08776603, y: 0.4805626, z: 0.8725537, w: -0.0026023036}
+        inSlope: {x: -1.9067404, y: -11.6449175, z: 3.3448415, w: -2.3052847}
+        outSlope: {x: -1.9067404, y: -11.6449175, z: 3.3448415, w: -2.3052847}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.1681989, y: -0.22713774, z: 0.9466296, w: -0.15495163}
+        inSlope: {x: -4.397148, y: -3.3383718, z: -0.06258869, w: 0.29398227}
+        outSlope: {x: -4.397148, y: -3.3383718, z: -0.06258869, w: 0.29398227}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.66516787, y: 0.002688911, z: -0.00023080573, w: 0.74668896}
+        inSlope: {x: -0.5635128, y: 0.0026624075, z: -0.00022851033, w: -0.6522296}
+        outSlope: {x: -0.5635128, y: 0.0026624075, z: -0.00022851033, w: -0.6522296}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.7796761, y: 0.0032263251, z: -0.00027693054, w: 0.6261747}
+        inSlope: {x: 7.982011, y: -0.035856813, z: 0.0030777461, w: 3.0397344}
+        outSlope: {x: 7.982011, y: -0.035856813, z: 0.0030777461, w: 3.0397344}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0000009644644, y: -0.0002991539, z: 0.000025672858, w: 0.99999994}
+        inSlope: {x: 2.2812362, y: -0.010639805, z: 0.0009132107, w: 2.1784363}
+        outSlope: {x: 2.2812362, y: -0.010639805, z: 0.0009132107, w: 2.1784363}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.55072904, y: 0.045456354, z: -0.078486204, w: 0.8297416}
+        inSlope: {x: 1.9075598, y: 0.19121397, z: -0.5192307, w: -1.8567395}
+        outSlope: {x: 1.9075598, y: 0.19121397, z: -0.5192307, w: -1.8567395}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.75536615, y: 0.06294803, z: -0.09991965, w: 0.644574}
+        inSlope: {x: -3.0139043, y: 0.44130224, z: -0.06518239, w: 1.4048481}
+        outSlope: {x: -3.0139043, y: 0.44130224, z: -0.06518239, w: 1.4048481}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.29957056, y: 0.08223151, z: -0.083918065, w: 0.94681215}
+        inSlope: {x: 0.16434717, y: -0.473028, z: 0.4578222, w: -0.10592294}
+        outSlope: {x: 0.16434717, y: -0.473028, z: 0.4578222, w: -0.10592294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.25985995, y: 0.08774834, z: -0.008091286, w: 0.9616172}
+        inSlope: {x: -0.00001859667, y: 0.0000011622919, z: 0.0000023245843, w: 0.0000057220514}
+        outSlope: {x: -0.00001859667, y: 0.0000011622919, z: 0.0000023245843, w: 0.0000057220514}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.2598583, y: 0.087748446, z: -0.008091061, w: 0.96161765}
+        inSlope: {x: 1.0354077, y: -0.07193441, z: -0.12942645, w: -0.32634288}
+        outSlope: {x: 1.0354077, y: -0.07193441, z: -0.12942645, w: -0.32634288}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.34614384, y: 0.08175381, z: -0.018876813, w: 0.93442196}
+        inSlope: {x: 0.000023007393, y: -0.0000013634562, z: -0.000002488494, w: -0.000006645918}
+        outSlope: {x: 0.000023007393, y: -0.0000013634562, z: -0.000002488494, w: -0.000006645918}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_foot_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.9474523e-16, y: -1.3755921e-16, z: -4.6813817e-17, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -2.9474523e-16, y: -1.3755921e-16, z: -4.6813817e-17, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_foot_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_toe_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.10762069, y: 0.9167497, z: -0.37240934, w: -0.09643144}
+        inSlope: {x: 1.9655986, y: -0.3590144, z: -1.6725465, w: 2.6651049}
+        outSlope: {x: 1.9655986, y: -0.3590144, z: -1.6725465, w: 2.6651049}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.062132813, y: 0.78199804, z: -0.6198333, w: -0.020623}
+        inSlope: {x: 2.2267778, y: -4.672979, z: -5.6316442, w: 2.1868243}
+        outSlope: {x: 2.2267778, y: -4.672979, z: -5.6316442, w: 2.1868243}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.07794396, y: 0.52733517, z: -0.8417126, w: 0.08580374}
+        inSlope: {x: 2.4103234, y: -2.636811, z: -1.9301116, w: 3.0657992}
+        outSlope: {x: 2.4103234, y: -2.636811, z: -1.9301116, w: 3.0657992}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: -0.56410176, y: 0, z: -0, w: 0.82570535}
+        inSlope: {x: -1.1255726, y: 0, z: 0, w: -0.96911556}
+        outSlope: {x: -1.1255726, y: 0, z: 0, w: -0.96911556}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.69812185, y: 0, z: -0, w: 0.715979}
+        inSlope: {x: -2.3444576, y: 0, z: 0, w: -2.1020007}
+        outSlope: {x: -2.3444576, y: 0, z: 0, w: -2.1020007}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.759473, y: 0, z: -0, w: 0.6505388}
+        inSlope: {x: -0.34873727, y: 0, z: 0, w: -0.35442728}
+        outSlope: {x: -0.34873727, y: 0, z: 0, w: -0.35442728}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.7208499, y: 0.28852963, z: 0.0178075, w: 0.6299279}
+        inSlope: {x: -0.47326124, y: 2.4355605, z: -1.5307623, w: 0.62767833}
+        outSlope: {x: -0.47326124, y: 2.4355605, z: -1.5307623, w: 0.62767833}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.64982116, y: 0.12598433, z: 0.06372299, w: 0.74685997}
+        inSlope: {x: -3.75285, y: -3.9937525, z: 1.0412946, w: 3.3109462}
+        outSlope: {x: -3.75285, y: -3.9937525, z: 1.0412946, w: 3.3109462}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.40811267, y: -0.04428275, z: 0.10458197, w: 0.9058398}
+        inSlope: {x: -2.8086212, y: -2.4889712, z: 1.2153459, w: 1.7256289}
+        outSlope: {x: -2.8086212, y: -2.4889712, z: 1.2153459, w: 1.7256289}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.00000011920929
+        value: {x: 0.2520671, y: 0.08781142, z: -0.007378663, w: 0.96368927}
+        inSlope: {x: 0.3798436, y: -0.0037607308, z: -0.03477759, w: -0.10906808}
+        outSlope: {x: 0.3798436, y: -0.0037607308, z: -0.03477759, w: -0.10906808}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.29070318, y: 0.08744177, z: -0.010915426, w: 0.9527468}
+        inSlope: {x: 1.5451542, y: -0.02185162, z: -0.14255689, w: -0.5190337}
+        outSlope: {x: 1.5451542, y: -0.02185162, z: -0.14255689, w: -0.5190337}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.3808298, y: 0.08599045, z: -0.019258393, w: 0.9204365}
+        inSlope: {x: 2.3162465, y: -0.05066715, z: -0.2167565, w: -0.98368186}
+        outSlope: {x: 2.3162465, y: -0.05066715, z: -0.2167565, w: -0.98368186}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_foot_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.1802025e-16, y: 2.8792503e-18, z: 4.235124e-20, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 1.1802025e-16, y: 2.8792503e-18, z: 4.235124e-20, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_foot_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_toe_BIND_jnt
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.05864632, y: 0.685753, z: -0.041039255}
+        inSlope: {x: 0.009959574, y: 0.7203194, z: 0.10499475}
+        outSlope: {x: 0.009959574, y: 0.7203194, z: 0.10499475}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.058281142, y: 0.71176255, z: -0.03718944}
+        inSlope: {x: 0.0063738553, y: 0.450612, z: 0.067196555}
+        outSlope: {x: 0.006374648, y: 0.4506251, z: 0.06719771}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.058115147, y: 0.7233039, z: -0.035439536}
+        inSlope: {x: 0.0019921015, y: -0.3020001, z: 0.020999508}
+        outSlope: {x: 0.0019925, y: -0.30199802, z: 0.020998849}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0064754826, y: 0.06426851, z: 0.00074784976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.0064754826, y: 0.06426851, z: 0.00074784976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0044762767, y: 0.07259314, z: -0.0017663433}
+        inSlope: {x: 0.0021337979, y: -0.001315412, z: -0.0085344715}
+        outSlope: {x: 0.002133723, y: -0.0013153868, z: -0.008534487}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.0044762767, y: 0.07259314, z: -0.0017663433}
+        inSlope: {x: -0.000000051026007, y: 0.0000006811554, z: 0.0000000125180515}
+        outSlope: {x: -8.326681e-17, y: 4.4408963e-16, z: -1.3877801e-17}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.004476276, y: 0.07259313, z: -0.0017663431}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.009722473, y: 0.10052291, z: 0.0055727274}
+        inSlope: {x: -0.03744098, y: 0.002898005, z: -0.01286855}
+        outSlope: {x: -0.0374411, y: 0.0029006575, z: -0.012868698}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.010087028, y: 0.10047378, z: 0.0053832876}
+        inSlope: {x: -0.00868086, y: -0.0011047666, z: -0.004685983}
+        outSlope: {x: -0.0086809965, y: -0.0011056418, z: -0.0046858876}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.010445871, y: 0.10043078, z: 0.0051822425}
+        inSlope: {x: 0.0043745446, y: 0.00058917527, z: 0.0022732164}
+        outSlope: {x: 0.0043749693, y: 0.0005907987, z: 0.0022732366}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0024649934, y: 0.09029089, z: 0.010687421}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0024649934, y: 0.09029089, z: 0.010687421}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.9539925e-16, y: 0.18661411, z: 0.02842624}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 1.9539925e-16, y: 0.18661411, z: 0.02842624}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 5.585737e-11, y: 0.08139266, z: 0.0000000057453775}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 5.585737e-11, y: 0.08139266, z: 0.0000000057453775}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.035800762, y: 0.14097652, z: 0.00865402}
+        inSlope: {x: 0.010266637, y: 0.27514172, z: -0.033683706}
+        outSlope: {x: 0.010266636, y: 0.27514324, z: -0.03368376}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.03580076, y: 0.14097652, z: 0.008654019}
+        inSlope: {x: -0.000000056914367, y: -0.0000005367558, z: 0.000000021475573}
+        outSlope: {x: 2.8548618e-16, y: -0, z: -0.000000008855546}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.035800755, y: 0.14097652, z: 0.008654018}
+        inSlope: {x: 2.2807901e-10, y: 0, z: -0.000000007982766}
+        outSlope: {x: 2.2807901e-10, y: 0, z: -0.000000007982766}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_neck_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_head_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.10520071, y: 0.0727908, z: -0.17105424}
+        inSlope: {x: 0.26297534, y: 0.2995433, z: -0.69979477}
+        outSlope: {x: 0.26297662, y: 0.29954252, z: -0.69979453}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.105200715, y: 0.07279081, z: -0.17105424}
+        inSlope: {x: -0.0000015834333, y: -0.000000012871186, z: 0.0000005241002}
+        outSlope: {x: 0.0000011771078, y: -0.0000005885539, z: 0.0000011771078}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.10520066, y: 0.07279079, z: -0.1710542}
+        inSlope: {x: 0.0000010815506, y: -0.0000005437404, z: 0.0000010792699}
+        outSlope: {x: 0.0000010815506, y: -0.0000005437404, z: 0.0000010792699}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.014094661, y: 0.27684695, z: -0.0047777425}
+        inSlope: {x: -0.017152267, y: -0.023717191, z: -0.039082687}
+        outSlope: {x: -0.017152386, y: -0.0237171, z: -0.03908286}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.013252248, y: 0.27590138, z: -0.00636862}
+        inSlope: {x: -0.015642313, y: -0.016015787, z: -0.027405273}
+        outSlope: {x: -0.015642686, y: -0.016015137, z: -0.027405893}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.012791138, y: 0.27551216, z: -0.0070615094}
+        inSlope: {x: 0.013129967, y: -0.008405355, z: 0.048852973}
+        outSlope: {x: 0.0131303, y: -0.008405398, z: 0.048853695}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00023428055, y: 0.3170756, z: -0.0003566958}
+        inSlope: {x: 4.7085395e-18, y: 1.5225931e-15, z: -2.230361e-18}
+        outSlope: {x: 0.000000028997192, y: -0.000003814568, z: 0.0000000421988}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.00023428055, y: 0.3170756, z: -0.0003566958}
+        inSlope: {x: -0.08560744, y: 0.004096432, z: -0.12421891}
+        outSlope: {x: -0.085611805, y: 0.004100475, z: -0.124225184}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0073682475, y: 0.3174172, z: -0.010708291}
+        inSlope: {x: -0.08561108, y: 0.004100475, z: -0.12422405}
+        outSlope: {x: -0.08560781, y: 0.0040997136, z: -0.124219395}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.02502015, y: 0.116566025, z: 0.016095696}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.02502015, y: 0.116566025, z: 0.016095696}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015930204, y: 0.07059564, z: 0.0053388756}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0015930204, y: 0.07059564, z: 0.0053388756}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_thumb_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.024016377, y: 0.032561008, z: 0.08271423}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.024016377, y: 0.032561008, z: 0.08271423}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0017299163, y: 0.07725179, z: 0.0057230718}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0017299163, y: 0.07725179, z: 0.0057230718}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.008694772, y: 0.056971338, z: 0.01183793}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.008694772, y: 0.056971338, z: 0.01183793}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_index_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.038576234, y: 0.046014704, z: -0.0035460289}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.038576234, y: 0.046014704, z: -0.0035460289}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.001146824, y: 0.07382445, z: 0.007762454}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.001146824, y: 0.07382445, z: 0.007762454}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_middle_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.024090717, y: -0.07897855, z: 0.045324545}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.024090717, y: -0.07897855, z: 0.045324545}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0002197328, y: 0.07187555, z: -0.0011840438}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.0002197328, y: 0.07187555, z: -0.0011840438}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0008064879, y: 0.05283422, z: -0.0025349413}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.0008064879, y: 0.05283422, z: -0.0025349413}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ring_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.007942038, y: 0.10666674, z: -0.0014733762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.007942038, y: 0.10666674, z: -0.0014733762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.011471609, y: 0.04357275, z: 0.00043810456}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.011471609, y: 0.04357275, z: 0.00043810456}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.007961011, y: 0.050368898, z: 0.000036630783}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.007961011, y: 0.050368898, z: 0.000036630783}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_pinkey_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.18610772, y: 0.21710658, z: -0.101805456}
+        inSlope: {x: -0.21970479, y: 0.08457362, z: -0.2603381}
+        outSlope: {x: -0.21970537, y: 0.084570594, z: -0.26033843}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.21872218, y: 0.21252036, z: -0.102651365}
+        inSlope: {x: -0.74659467, y: -0.2368835, z: -0.08109159}
+        outSlope: {x: -0.74661297, y: -0.2368953, z: -0.08109069}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.24832402, y: 0.19736618, z: -0.10856302}
+        inSlope: {x: -0.22001426, y: -0.13220464, z: -0.4479047}
+        outSlope: {x: -0.22000158, y: -0.13219641, z: -0.4479068}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_shoulder_pad_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.10665742, y: 0.21744527, z: -0.04111604}
+        inSlope: {x: 0.21251008, y: -0.050734468, z: -0.7469615}
+        outSlope: {x: 0.21250972, y: -0.05073127, z: -0.7469652}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.13136172, y: 0.20920928, z: -0.12183768}
+        inSlope: {x: -0.5895233, y: -0.20043932, z: -1.9383256}
+        outSlope: {x: -0.58954, y: -0.20044409, z: -1.938371}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.15578438, y: 0.20074199, z: -0.20264281}
+        inSlope: {x: 0.25048324, y: -0.29880887, z: -0.5364858}
+        outSlope: {x: 0.25049946, y: -0.29880732, z: -0.5364506}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.048019305, y: 0.27624828, z: 0.0023353915}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.048019305, y: 0.27624828, z: 0.0023353915}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.010666374, y: 0.31828865, z: 0.026330568}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.010666374, y: 0.31828865, z: 0.026330568}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0112726195, y: 0.114124775, z: 0.012686774}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0112726195, y: 0.114124775, z: 0.012686774}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.008910895, y: 0.07199861, z: 0.0027955743}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.008910895, y: 0.07199861, z: 0.0027955743}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_thumb_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.046951327, y: 0.03232523, z: 0.06963465}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.046951327, y: 0.03232523, z: 0.06963465}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000001301279, y: 0.067066714, z: 0.003634236}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.00000001301279, y: 0.067066714, z: 0.003634236}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.011891133, y: 0.055750325, z: -0.0013968494}
+        inSlope: {x: 0.00013168523, y: 0.00030800686, z: -0.000033389995}
+        outSlope: {x: 0.00013168523, y: 0.00030800686, z: -0.000033389995}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.011887755, y: 0.055720218, z: -0.0013948291}
+        inSlope: {x: -0.0003364652, y: -0.0019498676, z: 0.00014626422}
+        outSlope: {x: -0.0003363516, y: -0.0019494861, z: 0.00014626223}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.011875251, y: 0.055648725, z: -0.0013894431}
+        inSlope: {x: -0.00026507967, y: -0.0014903726, z: 0.00011285753}
+        outSlope: {x: -0.00026507967, y: -0.0014903726, z: 0.00011285753}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_index_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.042270046, y: -0.022342311, z: 0.07503997}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.042270046, y: -0.022342311, z: 0.07503997}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00023706791, y: 0.07485856, z: -0.0049779923}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.00023706791, y: 0.07485856, z: -0.0049779923}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0097890925, y: 0.072309576, z: 0.00025846335}
+        inSlope: {x: 0.00041092432, y: 0.0007317049, z: 0.00004475878}
+        outSlope: {x: 0.00041079297, y: 0.0007303967, z: 0.000044753757}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.009363903, y: 0.07128649, z: 0.00019380637}
+        inSlope: {x: -0.019161563, y: -0.02932064, z: -0.0017575702}
+        outSlope: {x: -0.019162321, y: -0.02932112, z: -0.001757614}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.008192291, y: 0.069866255, z: 0.000111999565}
+        inSlope: {x: -0.014059886, y: -0.017043779, z: -0.0009817183}
+        outSlope: {x: -0.014059404, y: -0.017043266, z: -0.0009816844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_midle_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_middle_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.024209222, y: -0.072383285, z: 0.04035923}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.024209222, y: -0.072383285, z: 0.04035923}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.019780174, y: 0.08898025, z: -0.002394591}
+        inSlope: {x: 0.00045516668, y: 0.00013033101, z: 0.00008838997}
+        outSlope: {x: 0.00045513667, y: 0.00013008184, z: 0.00008839815}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.019202696, y: 0.08873811, z: -0.0025063534}
+        inSlope: {x: -0.01931463, y: -0.0041042236, z: -0.0037570645}
+        outSlope: {x: -0.01931545, y: -0.004103386, z: -0.0037572505}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.018170608, y: 0.088638246, z: -0.002707681}
+        inSlope: {x: -0.0123855015, y: -0.0011965842, z: -0.0024160428}
+        outSlope: {x: -0.012384904, y: -0.001198906, z: -0.0024159232}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0050015366, y: 0.052106097, z: 0.00924836}
+        inSlope: {x: 0.00008040981, y: 0.0010360677, z: 0.0001503417}
+        outSlope: {x: 0.00008037957, y: 0.0010351589, z: 0.000150323}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.0049565476, y: 0.05072643, z: 0.009110986}
+        inSlope: {x: -0.0060531306, y: -0.042792358, z: -0.0073375725}
+        outSlope: {x: -0.006053509, y: -0.04279283, z: -0.0073379716}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.005505965, y: 0.048540115, z: 0.008636896}
+        inSlope: {x: -0.006593255, y: -0.026236486, z: -0.0056893397}
+        outSlope: {x: -0.0065930462, y: -0.02623615, z: -0.0056890473}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ring_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.017906917, y: 0.09405258, z: -0.0046058763}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.017906917, y: 0.09405258, z: -0.0046058763}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0019182736, y: 0.057893027, z: -0.000047694764}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0019182736, y: 0.057893027, z: -0.000047694764}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_mid_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.005457132, y: 0.037932545, z: 0.0015652846}
+        inSlope: {x: 0.00031529332, y: 0.00019590538, z: 0.000090089365}
+        outSlope: {x: 0.000315305, y: 0.00019561854, z: 0.00009006981}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.0058134855, y: 0.037596915, z: 0.001450735}
+        inSlope: {x: -0.013652931, y: -0.006454476, z: -0.003674944}
+        outSlope: {x: -0.013653317, y: -0.00645453, z: -0.003675059}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0065948735, y: 0.037394676, z: 0.001259039}
+        inSlope: {x: -0.009377037, y: -0.0024270238, z: -0.0023004215}
+        outSlope: {x: -0.009376671, y: -0.0024270355, z: -0.002300354}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_elbow_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_wrist_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_palm_fat_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_base_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_mid_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_pinkey_upper_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1697188, y: 0.3093731, z: -0.058891833}
+        inSlope: {x: 0.23447637, y: 0.1501883, z: -0.3721808}
+        outSlope: {x: 0.23447874, y: 0.15018827, z: -0.37218398}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.18286067, y: 0.30444163, z: -0.09924705}
+        inSlope: {x: -0.30620232, y: -0.112700544, z: -0.96963364}
+        outSlope: {x: -0.30620852, y: -0.11270429, z: -0.9696577}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.19523548, y: 0.29998145, z: -0.13969438}
+        inSlope: {x: 0.10048655, y: -0.017245222, z: -0.104620904}
+        outSlope: {x: 0.1004926, y: -0.017243044, z: -0.10459846}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineA_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_spineC_BIND_jnt/Garth_Galaxy_RIg_v1_1a:C_chest_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_clavicle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_shoulder_pad_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.11809508, y: -0.066212766, z: 0.02418629}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.11809508, y: -0.066212766, z: 0.02418629}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00002998988, y: 0.32773772, z: -0.004852181}
+        inSlope: {x: 0.0000065288546, y: -0.00020747544, z: -0.010997446}
+        outSlope: {x: 0.000006528977, y: -0.000199239, z: -0.010997602}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.000032111933, y: 0.32789814, z: -0.0069615245}
+        inSlope: {x: -0.0004048511, y: -0.08407882, z: 0.057612218}
+        outSlope: {x: -0.00040487514, y: -0.08408928, z: 0.05761679}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.0000037477798, y: 0.32073107, z: -0.000051133153}
+        inSlope: {x: -0.00005649967, y: -0.00688409, z: 0.03933554}
+        outSlope: {x: -0.00005647789, y: -0.006881877, z: 0.039331965}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0022801808, y: 0.44048643, z: 0.00022022915}
+        inSlope: {x: 0.0054638595, y: -0.07150289, z: -0.034848515}
+        outSlope: {x: 0.0054638432, y: -0.0715077, z: -0.034848712}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: 0.0024253493, y: 0.43279928, z: -0.0030322634}
+        inSlope: {x: 0.015668463, y: 0.09907215, z: -0.014068906}
+        outSlope: {x: 0.015669316, y: 0.09909174, z: -0.014067269}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.0035858883, y: 0.44874305, z: -0.0009521556}
+        inSlope: {x: -0.017301654, y: -0.0036915622, z: -0.005467818}
+        outSlope: {x: -0.01730259, y: -0.0037001085, z: -0.005469363}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000000035874754, y: 0.15398932, z: 0.0000000017491821}
+        inSlope: {x: -0.00000011150413, y: 0.0000019073505, z: -0.0000005121904}
+        outSlope: {x: -0.00000011358502, y: -0.0000006764612, z: -0.0000005202956}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.0000000067044965, y: 0.15398934, z: -0.00000004318077}
+        inSlope: {x: 0.005329064, y: -0.024024503, z: 0.025613636}
+        outSlope: {x: 0.005329363, y: -0.02402475, z: 0.025615057}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.00044409308, y: 0.15198736, z: 0.0021344754}
+        inSlope: {x: 0.0000003307587, y: -0.0000019430713, z: 0.0000015972952}
+        outSlope: {x: 0.00000005662493, y: 0.0000004825861, z: 0.00000028640164}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_foot_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0658141e-16, y: 0.19012064, z: 2.6645352e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 1.0658141e-16, y: 0.19012064, z: 2.6645352e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_foot_BIND_jnt/Garth_Galaxy_RIg_v1_1a:L_toe_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.117482595, y: -0.06723934, z: 0.02433638}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.117482595, y: -0.06723934, z: 0.02433638}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.7440564e-10, y: -0.3216005, z: 0.00000010213038}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 2.7440564e-10, y: -0.3216005, z: 0.00000010213038}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000040657564, y: -0.42539877, z: 0.119057216}
+        inSlope: {x: -0.00000024126228, y: -0.0000000035762788, z: -0.0000001269579}
+        outSlope: {x: -0.00000024126228, y: -0.0000000035762788, z: -0.0000001269579}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.000000022198119, y: -0.42539874, z: 0.11905721}
+        inSlope: {x: -0.00000020217885, y: -0.000000010947793, z: -0.00000009944245}
+        outSlope: {x: -0.00000020217885, y: -0.000000010947793, z: -0.00000009944245}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000038985326, y: -0.15398897, z: 0.00000026918153}
+        inSlope: {x: -0.000000007662262, y: 0, z: -0.000000044708237}
+        outSlope: {x: -0.000000007662262, y: 0, z: -0.000000044708237}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.041666746
+        value: {x: -0.00000039114434, y: -0.15398897, z: 0.00000026193004}
+        inSlope: {x: -0.00000006145806, y: -7.6129437e-16, z: -0.0000003424718}
+        outSlope: {x: -0.00000006145794, y: -1.7763585e-15, z: -0.0000003424811}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: -0.00000039466318, y: -0.15398896, z: 0.00000024276693}
+        inSlope: {x: -0.00000010058466, y: 0.00000035762787, z: -0.00000054078896}
+        outSlope: {x: -0.00000010058466, y: 0.00000035762787, z: -0.00000054078896}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_foot_BIND_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000062393315, y: -0.19012085, z: 8.295009e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333337
+        value: {x: 0.00000062393315, y: -0.19012085, z: 8.295009e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Garth_Galaxy_RIg_v1_1a:root_jnt/Garth_Galaxy_RIg_v1_1a:C_COG_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_upper_leg_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_knee_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_ankle_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_foot_BIND_jnt/Garth_Galaxy_RIg_v1_1a:R_toe_BIND_jnt
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0.041666668
+    m_StartTime: 0
+    m_StopTime: 0.08333337
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

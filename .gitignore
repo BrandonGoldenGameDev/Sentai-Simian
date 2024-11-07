@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Sentai Simian/[Ll]ibrary/
+/Sentai Simian/[Tt]emp/
+/Sentai Simian/[Oo]bj/
+/Sentai Simian/[Bb]uild/
+/Sentai Simian/[Bb]uilds/
+/Sentai Simian/[Ll]ogs/
+/Sentai Simian/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
